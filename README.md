@@ -26,7 +26,7 @@ First, a signin page will be shown where users can enter their email and passwor
 # ER Diagram :link:
 ![image](https://user-images.githubusercontent.com/102875229/209584552-f608ce76-54e6-4ddf-8d64-77f7dcdcec71.png)
 
-# How to Run the Application :gear:
+# How to Run the Project :gear:
 ## What to Download
 #### Download XAMPP
 ```
@@ -39,7 +39,7 @@ https://www.apachefriends.org/download.html
 > Click on: 'Code', then 'Download ZIP'.
 
 #### Move the 'final-project' folder to htdocs
-> Go to XAMPP/htdocs on your device,and move into it the 'final-project' folder that you downloaded.
+> Go to XAMPP/htdocs on your device, and move into it the 'final-project' folder that you downloaded.
 
 #### Run XAMPP server
 > Start Apache.\
@@ -50,6 +50,11 @@ https://www.apachefriends.org/download.html
 > Click on 'New' in phpMyAdmin, and create a database, name it 'cinemasdb'.\
 > Copy the content of cinemas.sql\
 > Paste it under the SQL section in phpMyAdmin and click GO.
+
+#### Go to your browser and type:
+```
+localhost/final-project
+```
 
 <br />
 You're all done! :slightly_smiling_face:	
