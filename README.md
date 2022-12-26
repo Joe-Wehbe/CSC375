@@ -11,7 +11,7 @@ Users can view different cinemas in lebanon, what movies is each one showing, th
 https://startbootstrap.com/template/small-business
       
 # ER Diagram :link:
-![image](https://user-images.githubusercontent.com/102875229/209584552-f608ce76-54e6-4ddf-8d64-77f7dcdcec71.png)
+![image](https://user-images.githubusercontent.com/102875229/209585259-859d70b8-8fce-4a9f-b6c8-26fc79f03236.png)
 
 # How to Run the Project :gear:
 ## What to Download
