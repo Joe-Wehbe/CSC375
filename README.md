@@ -1,5 +1,5 @@
 # CineLeb :film_projector:
-Website for cinemas in Lebanon. 
+Website for cinemas in Lebanon. (Database Management Systems Course - Final Project)
 
 # Contributors :raising_hand_man:
 <a href="https://github.com/Joe-Wehbe">Joe Wehbe</a>
