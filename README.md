@@ -1,5 +1,5 @@
 # CineLeb :film_projector:
-Website for cinemas in Lebanon. This is the final project of the Database Management Systems course (CSC375)
+Website for cinemas in Lebanon. This is the final project of the Database Management Systems course (CSC375) at the <a href="https://lau.edu.lb"> Lebanese American University</a>.
 
 # Contributors :raising_hand_man:
 <a href="https://github.com/Joe-Wehbe">Joe Wehbe</a>
